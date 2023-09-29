@@ -71,6 +71,7 @@ DJANGO_APP = [
 THIRD_APPS = [
     "daphne",
     "channels",
+    "whitenoise"
 ]
 
 LOCAL_APPS = [
